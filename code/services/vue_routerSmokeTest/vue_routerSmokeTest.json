@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,vue_router",
+    "logging_enabled": "false",
+    "name": "vue_routerSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "vue_routerSmokeTest.js"
+}
